@@ -20,4 +20,4 @@
 Нужно сделать дашборд.
 Дашборд будет основываться на пайплайне, который будет брать данные из таблицы, в которых хранятся сырые данные, трансформировать данные и укладывать их в агрегирующую таблицу.
 ### [Дашборд в Tableau](https://public.tableau.com/app/profile/istomin.st/viz/Ya_ZenEventDash/Ya_ZenEventHistory?publish=yes)
-### [Презентация дашборда]()
+### [Презентация дашборда](https://github.com/IstominSt/praktikum-projects/blob/main/ya.zen_dashboard/Отчет%20по%20карточкам%20Ya.Zen.pdf)
